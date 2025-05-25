@@ -1,6 +1,6 @@
 // 1. SVG 컨테이너 설정
-const width = 960; // 시각화 너비
-const height = 600; // 시각화 높이 (원하는 대로 조절 가능)
+const width = 1200; // 시각화 너비
+const height = 1000; // 시각화 높이 (원하는 대로 조절 가능)
 
 // SVG 요소 생성 (그래프가 그려질 도화지)
 const svg = d3.select("#chart") // 'chart'라는 id를 가진 div 안에 SVG를 만듭니다.
