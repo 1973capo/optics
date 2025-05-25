@@ -45,3 +45,10 @@ h1 {
     fill: #333; /* 글자 색상 */
     text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff; /* 글자 가독성을 위한 흰색 그림자 */
 }
+/* 그래프 조작 설명 텍스트 스타일 */
+#graph-instruction {
+    font-size: 14px; /* 원하는 폰트 크기로 조절하세요 (예: 12px, 16px, 1.1em 등) */
+    color: #666; /* 필요하다면 글자 색상도 변경할 수 있습니다. */
+    margin-top: 10px; /* 위쪽 여백 */
+    margin-bottom: 20px; /* 아래쪽 여백 (그래프와의 간격) */
+}
